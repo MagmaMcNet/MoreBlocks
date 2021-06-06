@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "More Blocks",
+    "icon": {
+      "value": "CUSTOM:Eyespy"
+    },
+    "showSearch": true
+  }
+}

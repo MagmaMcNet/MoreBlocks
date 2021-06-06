@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/concrete_pink",
+    "up": "moreblocks:blocks/concrete_pink",
+    "north": "moreblocks:blocks/concrete_pink",
+    "east": "moreblocks:blocks/concrete_pink",
+    "south": "moreblocks:blocks/concrete_pink",
+    "west": "moreblocks:blocks/concrete_pink",
+    "particle": "moreblocks:blocks/concrete_pink"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "tey_head",
+    "enableBody": false,
+    "textureBody": "blindfold_body",
+    "enableLeggings": false,
+    "textureLeggings": "blindfold_leggings",
+    "enableBoots": false,
+    "textureBoots": "blindfold_boots",
+    "creativeTab": {
+      "value": "CUSTOM:MoreOres"
+    },
+    "armorTextureFile": "tey",
+    "helmetName": "BlindFold creative",
+    "bodyName": "BlindFold Chestplate",
+    "leggingsName": "BlindFold Leggings",
+    "bootsName": "BlindFold Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 10,
+    "damageValueHelmet": 4,
+    "damageValueBody": 0,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 5,
+    "toughness": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.WOOL#14"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_fv": 13,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "sweet_berry_bush_stage2",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "",
+    "plantType": "normal",
+    "staticPlantGenerationType": "Flower",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "doublePlantGenerationType": "Flower",
+    "name": "Berry Bush",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": "CUSTOM:BerryBush"
+    },
+    "dropAmount": 1,
+    "forceTicking": true,
+    "emissiveRendering": false,
+    "hasTileEntity": true,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [],
+    "onDestroyedByPlayer": {
+      "name": "BerryBushberrysPlantDestroyedByPlayer"
+    },
+    "onEntityCollides": {
+      "name": "BerryBushMobplayerCollidesWithPlant"
+    },
+    "onRightClicked": {
+      "name": "BerryBushPlantRightClicked"
+    }
+  }
+}

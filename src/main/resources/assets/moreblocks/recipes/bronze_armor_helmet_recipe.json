@@ -1,0 +1,29 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "1": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "2": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "3": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "5": {
+      "item": "moreblocks:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "moreblocks:bronze_armorhelmet",
+    "count": 1
+  }
+}

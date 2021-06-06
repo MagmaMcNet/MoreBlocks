@@ -1,0 +1,17 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moreblocks:endo_iron"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 11
+    }
+  ],
+  "result": {
+    "item": "moreblocks:chicairon",
+    "count": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "freddy_head",
+    "enableBody": true,
+    "textureBody": "foxys_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "foxys_leggings",
+    "enableBoots": true,
+    "textureBoots": "foxys_boots",
+    "creativeTab": {
+      "value": "CUSTOM:FNAF"
+    },
+    "armorTextureFile": "foxy_",
+    "helmetName": "Foxy Helmet",
+    "bodyName": "Foxy Body",
+    "leggingsName": "Foxy Leggings",
+    "bootsName": "Foxy Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelFox",
+    "helmetModelPart": "head",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 8,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

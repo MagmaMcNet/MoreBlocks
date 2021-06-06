@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dirt_axe",
+    "customModelName": "Normal",
+    "name": "Dirt Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MoreOres"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 8,
+    "damageVsEntity": 5.0,
+    "usageCount": 122,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

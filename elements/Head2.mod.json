@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FreddyIron"
+      },
+      {
+        "value": "CUSTOM:FreddyIron"
+      },
+      {
+        "value": "CUSTOM:FreddyIron"
+      },
+      {
+        "value": "CUSTOM:FreddyIron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FreddyIron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FreddyHead"
+    },
+    "name": "head_2",
+    "namespace": "mod"
+  }
+}

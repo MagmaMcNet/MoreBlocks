@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "table_side",
+        "Top": "table_top"
+      },
+      "name": "default"
+    }
+  }
+}

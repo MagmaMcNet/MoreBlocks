@@ -1,0 +1,29 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:bonnieirn"
+    },
+    "1": {
+      "item": "moreblocks:bonnieirn"
+    },
+    "2": {
+      "item": "moreblocks:bonnieirn"
+    },
+    "3": {
+      "item": "moreblocks:bonnieirn"
+    },
+    "5": {
+      "item": "moreblocks:bonnieirn"
+    }
+  },
+  "result": {
+    "item": "moreblocks:bonniehead",
+    "count": 1
+  }
+}

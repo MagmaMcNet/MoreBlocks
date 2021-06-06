@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/stonebrick_mossy",
+    "up": "moreblocks:blocks/stonebrick_mossy",
+    "north": "moreblocks:blocks/stonebrick_mossy",
+    "east": "moreblocks:blocks/stonebrick_mossy",
+    "south": "moreblocks:blocks/stonebrick_mossy",
+    "west": "moreblocks:blocks/stonebrick_mossy",
+    "particle": "moreblocks:blocks/stonebrick_mossy"
+  }
+}

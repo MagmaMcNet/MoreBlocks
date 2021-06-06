@@ -1,0 +1,36 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:silveringot"
+    },
+    "1": {
+      "item": "moreblocks:silveringot"
+    },
+    "2": {
+      "item": "moreblocks:silveringot"
+    },
+    "3": {
+      "item": "moreblocks:silveringot"
+    },
+    "5": {
+      "item": "moreblocks:silveringot"
+    },
+    "6": {
+      "item": "moreblocks:silveringot"
+    },
+    "8": {
+      "item": "moreblocks:silveringot"
+    }
+  },
+  "result": {
+    "item": "moreblocks:silver_armorlegs",
+    "count": 1
+  }
+}

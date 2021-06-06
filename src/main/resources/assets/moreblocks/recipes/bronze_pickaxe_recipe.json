@@ -1,0 +1,30 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "1": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "2": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moreblocks:bronze_pickaxe",
+    "count": 1
+  }
+}

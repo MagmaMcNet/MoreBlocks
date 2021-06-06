@@ -1,0 +1,7 @@
+{
+  "_fv": 13,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value><statement name=\"DO0\"><block type=\"gui_set_items\"><value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">4</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:Tomatoslice</field></block></value><value name=\"slotid\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></statement></block></next></block><block type=\"logic_negate\" x=\"-129\" y=\"72\"></block><block type=\"mcitem_all\" x=\"-243\" y=\"148\"><field name=\"value\"></field></block><block type=\"empty_itemstack\" x=\"171\" y=\"216\"></block><block type=\"item_name\" x=\"-47\" y=\"248\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\"></field></block></value></block><block type=\"mcitem_allblocks\" x=\"-164\" y=\"348\"><field name=\"value\"></field></block><block type=\"variables_get_text\" x=\"57\" y=\"338\"><field name=\"VAR\"></field></block></xml>"
+  }
+}

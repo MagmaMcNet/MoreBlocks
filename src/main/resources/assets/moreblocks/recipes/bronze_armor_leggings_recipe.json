@@ -1,0 +1,36 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "1": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "2": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "3": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "5": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "6": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "8": {
+      "item": "moreblocks:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "moreblocks:bronze_armorlegs",
+    "count": 1
+  }
+}

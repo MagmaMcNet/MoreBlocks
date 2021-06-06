@@ -1,0 +1,30 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "1": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "2": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moreblocks:bronze_axe",
+    "count": 1
+  }
+}

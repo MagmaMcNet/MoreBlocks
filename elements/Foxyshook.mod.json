@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "foxy_ingot",
+    "customModelName": "foxys_hook:default",
+    "name": "Foxys Hook",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.5,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Silveringot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

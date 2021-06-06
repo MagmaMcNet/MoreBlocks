@@ -1,0 +1,39 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:chicairon"
+    },
+    "2": {
+      "item": "moreblocks:chicairon"
+    },
+    "3": {
+      "item": "moreblocks:chicairon"
+    },
+    "4": {
+      "item": "moreblocks:chicairon"
+    },
+    "5": {
+      "item": "moreblocks:chicairon"
+    },
+    "6": {
+      "item": "moreblocks:chicairon"
+    },
+    "7": {
+      "item": "moreblocks:chicairon"
+    },
+    "8": {
+      "item": "moreblocks:chicairon"
+    }
+  },
+  "result": {
+    "item": "moreblocks:chica_armorbody",
+    "count": 1
+  }
+}

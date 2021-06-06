@@ -1,0 +1,8 @@
+{
+  "parent": "moreblocks:custom/iron_ore",
+  "textures": {
+    "all": "moreblocks:blocks/bonnie",
+    "particle": "moreblocks:blocks/bonnie",
+    "texture": "moreblocks:blocks/bonnie"
+  }
+}

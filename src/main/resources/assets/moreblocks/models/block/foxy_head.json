@@ -1,0 +1,8 @@
+{
+  "parent": "moreblocks:custom/gold_ore",
+  "textures": {
+    "all": "moreblocks:blocks/foxy",
+    "particle": "moreblocks:blocks/foxy",
+    "texture": "moreblocks:blocks/foxy"
+  }
+}

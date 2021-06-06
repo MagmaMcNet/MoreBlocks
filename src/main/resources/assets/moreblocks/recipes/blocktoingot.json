@@ -1,0 +1,16 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "moreblocks:obsidian_ingot",
+    "count": 9
+  }
+}

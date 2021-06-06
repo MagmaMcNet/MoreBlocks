@@ -1,0 +1,29 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:foxyiron"
+    },
+    "1": {
+      "item": "moreblocks:foxyiron"
+    },
+    "2": {
+      "item": "moreblocks:foxyiron"
+    },
+    "3": {
+      "item": "moreblocks:foxyiron"
+    },
+    "5": {
+      "item": "moreblocks:foxyiron"
+    }
+  },
+  "result": {
+    "item": "moreblocks:foxy_head",
+    "count": 1
+  }
+}

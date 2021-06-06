@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/dirt",
+    "up": "moreblocks:blocks/dirt_podzol_top",
+    "north": "moreblocks:blocks/dirt_podzol_side",
+    "east": "moreblocks:blocks/dirt_podzol_side",
+    "south": "moreblocks:blocks/dirt_podzol_side",
+    "west": "moreblocks:blocks/dirt_podzol_side",
+    "particle": "moreblocks:blocks/dirt"
+  }
+}

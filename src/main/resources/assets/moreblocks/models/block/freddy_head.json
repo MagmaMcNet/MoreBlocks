@@ -1,0 +1,8 @@
+{
+  "parent": "moreblocks:custom/pumpkin",
+  "textures": {
+    "all": "moreblocks:blocks/freddy",
+    "particle": "moreblocks:blocks/freddy",
+    "texture": "moreblocks:blocks/freddy"
+  }
+}

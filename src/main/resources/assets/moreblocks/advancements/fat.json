@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "moreblocks:pizza"
+    },
+    "title": {
+      "translate": "advancements.fat.title"
+    },
+    "description": {
+      "translate": "advancements.fat.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "moreblocks:shinyadv"
+}

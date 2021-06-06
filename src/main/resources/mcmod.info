@@ -1,0 +1,22 @@
+[
+  {
+    "modid": "moreblocks",
+    "name": "More Blocks",
+    "description": "More blocks to add to the surivival world",
+    "version": "2.6.0",
+    "credits": "Mod Credits to SMLkaiellis08",
+    "logoFile": "assets/moreblocks/textures/sml.kaiellis_logo.png",
+    "mcversion": "1.12.2",
+    "url": "https://magma.serble.net",
+    "updateUrl": "",
+    "authorList": [
+      "SMLkaiellis08"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [
+      "sml_api"
+    ],
+    "useDependencyInformation": "true"
+  }
+]

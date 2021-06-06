@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "moreblocks:berry_bushberrys"
+    },
+    "title": {
+      "translate": "advancements.berrybush_adv.title"
+    },
+    "description": {
+      "translate": "advancements.berrybush_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "berrybush_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "moreblocks:berry",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "minecraft:story/root"
+}

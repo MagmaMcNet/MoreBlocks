@@ -1,0 +1,179 @@
+{
+  "sniper_shoot": {
+    "category": "master",
+    "subtitle": "subtitles.sniper_shoot",
+    "sounds": [
+      {
+        "name": "moreblocks:fire",
+        "stream": false
+      }
+    ]
+  },
+  "sinper_reload": {
+    "category": "master",
+    "subtitle": "subtitles.sinper_reload",
+    "sounds": [
+      {
+        "name": "moreblocks:reload",
+        "stream": false
+      }
+    ]
+  },
+  "armour1": {
+    "category": "master",
+    "subtitle": "subtitles.armour1",
+    "sounds": [
+      {
+        "name": "moreblocks:heavy_armour1",
+        "stream": false
+      }
+    ]
+  },
+  "armour2": {
+    "category": "master",
+    "subtitle": "subtitles.armour2",
+    "sounds": [
+      {
+        "name": "moreblocks:heavy_armour2",
+        "stream": false
+      }
+    ]
+  },
+  "armour3": {
+    "category": "master",
+    "subtitle": "subtitles.armour3",
+    "sounds": [
+      {
+        "name": "moreblocks:heavy_armour3",
+        "stream": false
+      }
+    ]
+  },
+  "armour4": {
+    "category": "master",
+    "subtitle": "subtitles.armour4",
+    "sounds": [
+      {
+        "name": "moreblocks:heavy_armour4",
+        "stream": false
+      }
+    ]
+  },
+  "armour": {
+    "category": "player",
+    "subtitle": "subtitles.armour",
+    "sounds": [
+      {
+        "name": "moreblocks:heavy_run1",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_run2",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_run3",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_run4",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_run5",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_run9",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_walk1",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_walk2",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_walk3",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_walk4",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:heavy_walk6",
+        "stream": false
+      }
+    ]
+  },
+  "entity.fox.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "moreblocks:fox.idle1",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.idle2",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.idle3",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.idle4",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.idle5",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.idle6",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.idle7",
+        "stream": false
+      }
+    ]
+  },
+  "entity.fox.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "moreblocks:fox.hurt1",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.hurt2",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.hurt3",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "entity.fox.death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "moreblocks:fox.death1",
+        "stream": false
+      },
+      {
+        "name": "moreblocks:fox.death2",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "dragonsteel_fire_helmet",
+    "enableBody": true,
+    "textureBody": "dragonsteel_fire_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "dragonsteel_fire_leggings",
+    "enableBoots": true,
+    "textureBoots": "dragonsteel_fire_boots",
+    "creativeTab": {
+      "value": "CUSTOM:MoreOres"
+    },
+    "armorTextureFile": "magma__",
+    "helmetName": "Fire Helmet",
+    "bodyName": "Fire Chestplate",
+    "leggingsName": "Fire Leggings",
+    "bootsName": "Fire Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 23,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 3,
+    "enchantability": 14,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.BLAZE_POWDER"
+      }
+    ]
+  }
+}

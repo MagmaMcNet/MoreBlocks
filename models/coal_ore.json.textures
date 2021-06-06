@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "chica"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/concrete_red",
+    "up": "moreblocks:blocks/concrete_red",
+    "north": "moreblocks:blocks/concrete_red",
+    "east": "moreblocks:blocks/concrete_red",
+    "south": "moreblocks:blocks/concrete_red",
+    "west": "moreblocks:blocks/concrete_red",
+    "particle": "moreblocks:blocks/concrete_red"
+  }
+}

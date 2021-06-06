@@ -1,0 +1,22 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moreblocks:obsidian_ingot"
+    },
+    {
+      "item": "moreblocks:obsidian_ingot"
+    },
+    {
+      "item": "moreblocks:obsidian_ingot"
+    },
+    {
+      "item": "moreblocks:obsidian_ingot"
+    }
+  ],
+  "result": {
+    "item": "minecraft:obsidian",
+    "count": 1
+  }
+}

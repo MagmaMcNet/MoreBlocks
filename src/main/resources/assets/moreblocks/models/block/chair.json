@@ -1,0 +1,10 @@
+{
+  "parent": "moreblocks:custom/stone_stairs",
+  "textures": {
+    "all": "moreblocks:blocks/iron_block",
+    "particle": "moreblocks:blocks/iron_block",
+    "gold_block": "moreblocks:blocks/concrete_yellow",
+    "texture": "moreblocks:blocks/concrete_black",
+    "iron_block": "moreblocks:blocks/iron_block"
+  }
+}

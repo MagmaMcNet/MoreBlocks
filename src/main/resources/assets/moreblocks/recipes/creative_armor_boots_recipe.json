@@ -1,0 +1,26 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bedrock"
+    },
+    "2": {
+      "item": "minecraft:bedrock"
+    },
+    "3": {
+      "item": "minecraft:bedrock"
+    },
+    "5": {
+      "item": "minecraft:bedrock"
+    }
+  },
+  "result": {
+    "item": "moreblocks:creative_armorboots",
+    "count": 1
+  }
+}

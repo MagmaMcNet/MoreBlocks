@@ -1,0 +1,29 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:freddy_iron"
+    },
+    "1": {
+      "item": "moreblocks:freddy_iron"
+    },
+    "2": {
+      "item": "moreblocks:freddy_iron"
+    },
+    "3": {
+      "item": "moreblocks:freddy_iron"
+    },
+    "5": {
+      "item": "moreblocks:freddy_iron"
+    }
+  },
+  "result": {
+    "item": "moreblocks:freddy_head",
+    "count": 1
+  }
+}

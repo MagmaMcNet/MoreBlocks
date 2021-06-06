@@ -1,0 +1,29 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:dragon_scales"
+    },
+    "1": {
+      "item": "moreblocks:dragon_scales"
+    },
+    "2": {
+      "item": "moreblocks:dragon_scales"
+    },
+    "3": {
+      "item": "moreblocks:dragon_scales"
+    },
+    "5": {
+      "item": "moreblocks:dragon_scales"
+    }
+  },
+  "result": {
+    "item": "moreblocks:dragon_armorhelmet",
+    "count": 1
+  }
+}

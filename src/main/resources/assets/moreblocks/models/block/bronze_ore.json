@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/bronze_ore_texture",
+    "up": "moreblocks:blocks/bronze_ore_texture",
+    "north": "moreblocks:blocks/bronze_ore_texture",
+    "east": "moreblocks:blocks/bronze_ore_texture",
+    "south": "moreblocks:blocks/bronze_ore_texture",
+    "west": "moreblocks:blocks/bronze_ore_texture",
+    "particle": "moreblocks:blocks/bronze_ore_texture"
+  }
+}

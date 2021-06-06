@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "moreblocks:chair"
+    },
+    "facing=north": {
+      "model": "moreblocks:chair"
+    },
+    "facing=east": {
+      "model": "moreblocks:chair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "moreblocks:chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "moreblocks:chair",
+      "y": 270
+    }
+  }
+}

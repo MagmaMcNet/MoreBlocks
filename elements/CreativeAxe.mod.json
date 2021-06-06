@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrockaxe",
+    "customModelName": "Normal",
+    "name": "Creative Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Creativeset"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 20,
+    "efficiency": 24.0,
+    "attackSpeed": 3.0,
+    "enchantability": 140,
+    "damageVsEntity": 90.0,
+    "usageCount": 6280,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

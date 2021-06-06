@@ -1,0 +1,9 @@
+{
+  "parent": "moreblocks:custom/upper_slab_stone",
+  "textures": {
+    "all": "moreblocks:blocks/table_top",
+    "particle": "moreblocks:blocks/table_top",
+    "Side": "moreblocks:blocks/table_side",
+    "Top": "moreblocks:blocks/table_top"
+  }
+}

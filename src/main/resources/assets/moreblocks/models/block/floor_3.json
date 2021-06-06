@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/hardened_clay_stained_red",
+    "up": "moreblocks:blocks/hardened_clay_stained_red",
+    "north": "moreblocks:blocks/hardened_clay_stained_red",
+    "east": "moreblocks:blocks/hardened_clay_stained_red",
+    "south": "moreblocks:blocks/hardened_clay_stained_red",
+    "west": "moreblocks:blocks/hardened_clay_stained_red",
+    "particle": "moreblocks:blocks/hardened_clay_stained_red"
+  }
+}

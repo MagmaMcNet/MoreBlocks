@@ -1,0 +1,26 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "2": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "3": {
+      "item": "moreblocks:bronzeingot"
+    },
+    "5": {
+      "item": "moreblocks:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "moreblocks:bronze_armorboots",
+    "count": 1
+  }
+}

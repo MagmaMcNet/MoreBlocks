@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/planks_jungle",
+    "up": "moreblocks:blocks/planks_jungle",
+    "north": "moreblocks:blocks/planks_jungle",
+    "east": "moreblocks:blocks/planks_jungle",
+    "south": "moreblocks:blocks/planks_jungle",
+    "west": "moreblocks:blocks/planks_jungle",
+    "particle": "moreblocks:blocks/planks_jungle"
+  }
+}

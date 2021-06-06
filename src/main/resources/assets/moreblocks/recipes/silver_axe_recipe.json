@@ -1,0 +1,30 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moreblocks:silveringot"
+    },
+    "1": {
+      "item": "moreblocks:silveringot"
+    },
+    "2": {
+      "item": "moreblocks:silveringot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moreblocks:silver_axe",
+    "count": 1
+  }
+}

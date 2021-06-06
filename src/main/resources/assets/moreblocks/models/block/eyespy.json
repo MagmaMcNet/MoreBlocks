@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/advan_icon",
+    "up": "moreblocks:blocks/advan_icon",
+    "north": "moreblocks:blocks/advan_icon",
+    "east": "moreblocks:blocks/advan_icon",
+    "south": "moreblocks:blocks/advan_icon",
+    "west": "moreblocks:blocks/advan_icon",
+    "particle": "moreblocks:blocks/advan_icon"
+  }
+}

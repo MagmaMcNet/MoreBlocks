@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "nose": "concrete_white",
+        "texture": "iron_block"
+      },
+      "name": "default"
+    }
+  }
+}

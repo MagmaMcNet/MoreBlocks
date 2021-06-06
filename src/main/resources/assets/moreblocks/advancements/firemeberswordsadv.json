@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "moreblocks:fire_ember_sword"
+    },
+    "title": {
+      "translate": "advancements.firemeberswordsadv.title"
+    },
+    "description": {
+      "translate": "advancements.firemeberswordsadv.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "firemeberswordsadv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "minecraft:story/enter_the_nether"
+}

@@ -1,0 +1,26 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma"
+    },
+    "2": {
+      "item": "minecraft:magma"
+    },
+    "3": {
+      "item": "minecraft:magma"
+    },
+    "5": {
+      "item": "minecraft:magma"
+    }
+  },
+  "result": {
+    "item": "moreblocks:magma_armorboots",
+    "count": 1
+  }
+}

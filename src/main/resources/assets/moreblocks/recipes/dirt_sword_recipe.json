@@ -1,0 +1,26 @@
+{
+  "group": "moreblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moreblocks:dirt_sword",
+    "count": 1
+  }
+}

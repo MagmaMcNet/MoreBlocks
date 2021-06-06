@@ -1,0 +1,3272 @@
+{
+  "id_map": {
+    "DIMENSION": 2,
+    "GUI": 4,
+    "ENTITY": 51
+  },
+  "mod_elements": [
+    {
+      "name": "MoreBlocks",
+      "type": "tab",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_blocks"
+    },
+    {
+      "name": "BronzeOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_ore"
+    },
+    {
+      "name": "Silverore",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silverore"
+    },
+    {
+      "name": "MoreOres",
+      "type": "tab",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_ores"
+    },
+    {
+      "name": "Silveringot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silveringot"
+    },
+    {
+      "name": "Bronzeingot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronzeingot"
+    },
+    {
+      "name": "Eyespy",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eyespy"
+    },
+    {
+      "name": "Walkstone",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentstone"
+    },
+    {
+      "name": "Transparentoakplanks",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentoakplanks"
+    },
+    {
+      "name": "Transparentacaciaplanks",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentacaciaplanks"
+    },
+    {
+      "name": "Transparentdarkoakplanks",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentdarkoakplanks"
+    },
+    {
+      "name": "Transparentbirchplanks",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentbirchplanks"
+    },
+    {
+      "name": "Transparentjungleplanks",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentjungleplanks"
+    },
+    {
+      "name": "Transparentspruceplanks",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentspruceplanks"
+    },
+    {
+      "name": "Transparentblackconcrete",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentblackconcrete"
+    },
+    {
+      "name": "Transparentblueconcrete",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentblueconcrete"
+    },
+    {
+      "name": "Transparentbrownconcrete",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentbrownconcrete"
+    },
+    {
+      "name": "Transparentcyanconcrete",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentcyanconcrete"
+    },
+    {
+      "name": "Transparentgrayconcrete",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentgrayconcrete"
+    },
+    {
+      "name": "Transparentgreenconcrete",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentgreenconcrete"
+    },
+    {
+      "name": "TransparentlightBlueconcrete",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentlight_blueconcrete"
+    },
+    {
+      "name": "Transparentlimeconcrete",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentlimeconcrete"
+    },
+    {
+      "name": "Transparentmagentaconcrete",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentmagentaconcrete"
+    },
+    {
+      "name": "Transparentorangeconcrete",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentorangeconcrete"
+    },
+    {
+      "name": "TransparentPinkConcrete",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_pink_concrete"
+    },
+    {
+      "name": "Transparentpurpleconcrete",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparentpurpleconcrete"
+    },
+    {
+      "name": "TransparentRedConcrete",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_red_concrete"
+    },
+    {
+      "name": "TransparentSilverConcrete",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_silver_concrete"
+    },
+    {
+      "name": "TransparentWhiteConcrete",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_white_concrete"
+    },
+    {
+      "name": "TransparentYellowConcrete",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_yellow_concrete"
+    },
+    {
+      "name": "BronzeArmor",
+      "type": "armor",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BronzeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_helmet_recipe"
+    },
+    {
+      "name": "BronzeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_body_recipe"
+    },
+    {
+      "name": "BronzeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_leggings_recipe"
+    },
+    {
+      "name": "BronzeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_boots_recipe"
+    },
+    {
+      "name": "SilverArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SilverArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_helmet_recipe"
+    },
+    {
+      "name": "SilverArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_body_recipe"
+    },
+    {
+      "name": "SilverArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_leggings_recipe"
+    },
+    {
+      "name": "SilverArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_boots_recipe"
+    },
+    {
+      "name": "BronzePickaxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_pickaxe"
+    },
+    {
+      "name": "BronzeAxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe"
+    },
+    {
+      "name": "BronzeSword",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_sword"
+    },
+    {
+      "name": "BronzeShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_shovel"
+    },
+    {
+      "name": "BronzeHoe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe"
+    },
+    {
+      "name": "BronzePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_pickaxe_recipe"
+    },
+    {
+      "name": "BronzeAxeRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe_recipe"
+    },
+    {
+      "name": "BronzeSwordRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_sword_recipe"
+    },
+    {
+      "name": "BronzeShovelRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_shovel_recipe"
+    },
+    {
+      "name": "BronzeHoeRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe_recipe"
+    },
+    {
+      "name": "SilverPickaxe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_pickaxe"
+    },
+    {
+      "name": "SilverAxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_axe"
+    },
+    {
+      "name": "SilverSword",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_sword"
+    },
+    {
+      "name": "SilverShovel",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_shovel"
+    },
+    {
+      "name": "SilverHoe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_hoe"
+    },
+    {
+      "name": "SilverPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_pickaxe_recipe"
+    },
+    {
+      "name": "SilverAxeRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_axe_recipe"
+    },
+    {
+      "name": "SilverSwordRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_sword_recipe"
+    },
+    {
+      "name": "SilverShovelRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_shovel_recipe"
+    },
+    {
+      "name": "SilverHoeRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_hoe_recipe"
+    },
+    {
+      "name": "ObsidianIngot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_ingot"
+    },
+    {
+      "name": "ObsidianOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_ore"
+    },
+    {
+      "name": "ObsidianOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_ore_block_recipe"
+    },
+    {
+      "name": "ObsidianOreSmelting",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_ore_smelting"
+    },
+    {
+      "name": "MagmaArmor",
+      "type": "armor",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MagmaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_armor_helmet_recipe"
+    },
+    {
+      "name": "MagmaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_armor_body_recipe"
+    },
+    {
+      "name": "MagmaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_armor_leggings_recipe"
+    },
+    {
+      "name": "MagmaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_armor_boots_recipe"
+    },
+    {
+      "name": "Hardened_ObsidianArmor",
+      "type": "armor",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_obsidian_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Hardened_ObsidianArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_obsidian_armor_helmet_recipe"
+    },
+    {
+      "name": "Hardened_ObsidianArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_obsidian_armor_body_recipe"
+    },
+    {
+      "name": "Hardened_ObsidianArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_obsidian_armor_leggings_recipe"
+    },
+    {
+      "name": "Hardened_ObsidianArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_obsidian_armor_boots_recipe"
+    },
+    {
+      "name": "CreativeArmor",
+      "type": "armor",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CreativeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_armor_helmet_recipe"
+    },
+    {
+      "name": "CreativeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_armor_body_recipe"
+    },
+    {
+      "name": "CreativeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_armor_leggings_recipe"
+    },
+    {
+      "name": "CreativeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_armor_boots_recipe"
+    },
+    {
+      "name": "CreativePickaxe",
+      "type": "tool",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_pickaxe"
+    },
+    {
+      "name": "CreativeAxe",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_axe"
+    },
+    {
+      "name": "CreativeSword",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_sword"
+    },
+    {
+      "name": "CreativeShovel",
+      "type": "tool",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_shovel"
+    },
+    {
+      "name": "CreativeHoe",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_hoe"
+    },
+    {
+      "name": "CreativePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_pickaxe_recipe"
+    },
+    {
+      "name": "CreativeAxeRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_axe_recipe"
+    },
+    {
+      "name": "CreativeSwordRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_sword_recipe"
+    },
+    {
+      "name": "CreativeShovelRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_shovel_recipe"
+    },
+    {
+      "name": "CreativeHoeRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_hoe_recipe"
+    },
+    {
+      "name": "Creativeset",
+      "type": "tab",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creativeset"
+    },
+    {
+      "name": "MagmaArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shinyadv",
+      "type": "achievement",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shinyadv"
+    },
+    {
+      "name": "Adv",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "adv",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shinysd",
+      "type": "procedure",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shinysd",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TransparentDirt",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_dirt"
+    },
+    {
+      "name": "TransparentPodzol",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_podzol"
+    },
+    {
+      "name": "Emerald_Armor",
+      "type": "armor",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Emerald_ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_helmet_recipe"
+    },
+    {
+      "name": "Emerald_ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_body_recipe"
+    },
+    {
+      "name": "Emerald_ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_leggings_recipe"
+    },
+    {
+      "name": "Emerald_ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_boots_recipe"
+    },
+    {
+      "name": "ObsidianPickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe"
+    },
+    {
+      "name": "ObsidianAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe"
+    },
+    {
+      "name": "ObsidianSword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_sword"
+    },
+    {
+      "name": "ObsidianShovel",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_shovel"
+    },
+    {
+      "name": "ObsidianHoe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_hoe"
+    },
+    {
+      "name": "ObsidianPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe_recipe"
+    },
+    {
+      "name": "ObsidianAxeRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe_recipe"
+    },
+    {
+      "name": "ObsidianSwordRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_sword_recipe"
+    },
+    {
+      "name": "ObsidianShovelRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_shovel_recipe"
+    },
+    {
+      "name": "ObsidianHoeRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_hoe_recipe"
+    },
+    {
+      "name": "TransparentStoneBrick",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_stone_brick"
+    },
+    {
+      "name": "TransparentStoneBrickmossy",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_stone_brickmossy"
+    },
+    {
+      "name": "TransparentStoneBrickCarved",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_stone_brick_carved"
+    },
+    {
+      "name": "TransparentStoneBrickcracked",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_stone_brickcracked"
+    },
+    {
+      "name": "DragonScales",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_scales"
+    },
+    {
+      "name": "DragonArmorBody",
+      "type": "procedure",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_armor_body",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WowDirst",
+      "type": "achievement",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wow_dirst"
+    },
+    {
+      "name": "DirtPickaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_pickaxe"
+    },
+    {
+      "name": "DirtAxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_axe"
+    },
+    {
+      "name": "DirtSword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_sword"
+    },
+    {
+      "name": "DirtShovel",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_shovel"
+    },
+    {
+      "name": "DirtHoe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_hoe"
+    },
+    {
+      "name": "DirtPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_pickaxe_recipe"
+    },
+    {
+      "name": "DirtAxeRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_axe_recipe"
+    },
+    {
+      "name": "DirtSwordRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_sword_recipe"
+    },
+    {
+      "name": "DirtShovelRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_shovel_recipe"
+    },
+    {
+      "name": "DirtHoeRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_hoe_recipe"
+    },
+    {
+      "name": "FireArmor",
+      "type": "armor",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "FireArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_armor_helmet_recipe"
+    },
+    {
+      "name": "FireArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_armor_body_recipe"
+    },
+    {
+      "name": "FireArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_armor_leggings_recipe"
+    },
+    {
+      "name": "FireArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_armor_boots_recipe"
+    },
+    {
+      "name": "FirePickaxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_pickaxe"
+    },
+    {
+      "name": "FireAxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_axe"
+    },
+    {
+      "name": "FireSword",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_sword"
+    },
+    {
+      "name": "FireShovel",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_shovel"
+    },
+    {
+      "name": "FireHoe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_hoe"
+    },
+    {
+      "name": "FirePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_pickaxe_recipe"
+    },
+    {
+      "name": "FireAxeRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_axe_recipe"
+    },
+    {
+      "name": "FireSwordRecipe",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_sword_recipe"
+    },
+    {
+      "name": "FireShovelRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_shovel_recipe"
+    },
+    {
+      "name": "FireHoeRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_hoe_recipe"
+    },
+    {
+      "name": "FireSwordSwings",
+      "type": "procedure",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_sword_swings",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FireSwordLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_sword_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DfSwordToolI",
+      "type": "procedure",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "df_sword_tool_i",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DfSwordhit",
+      "type": "procedure",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "df_swordhit",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FireEmberSword",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_ember_sword"
+    },
+    {
+      "name": "DragonOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_ore"
+    },
+    {
+      "name": "DragonArmor",
+      "type": "armor",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DragonArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_armor_helmet_recipe"
+    },
+    {
+      "name": "DragonArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_armor_body_recipe"
+    },
+    {
+      "name": "DragonArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_armor_leggings_recipe"
+    },
+    {
+      "name": "DragonArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_armor_boots_recipe"
+    },
+    {
+      "name": "FireEmberSwordTool",
+      "type": "procedure",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_ember_sword_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TransparentStone",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "transparent_stone"
+    },
+    {
+      "name": "Oak",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak"
+    },
+    {
+      "name": "Ac",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ac"
+    },
+    {
+      "name": "Dark",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark"
+    },
+    {
+      "name": "Birch",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch"
+    },
+    {
+      "name": "Jungle",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle"
+    },
+    {
+      "name": "Spruce",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce"
+    },
+    {
+      "name": "Dragonsho",
+      "type": "structure",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragonsho"
+    },
+    {
+      "name": "TeyArmor",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tey_armor",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "TeyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tey_armor_helmet_recipe"
+    },
+    {
+      "name": "Blocktoingot",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocktoingot"
+    },
+    {
+      "name": "Firemeberswordsadv",
+      "type": "achievement",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firemeberswordsadv"
+    },
+    {
+      "name": "Blindfoldon",
+      "type": "procedure",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blindfoldon",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlindFoldArmor",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blind_fold_armor",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "BlindFoldArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blind_fold_armor_helmet_recipe"
+    },
+    {
+      "name": "BlindFoldArmorgod",
+      "type": "procedure",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blind_fold_armorgod",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Berry",
+      "type": "food",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry"
+    },
+    {
+      "name": "BerryBush",
+      "type": "plant",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_bush"
+    },
+    {
+      "name": "BerrybushADV",
+      "type": "achievement",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berrybush_adv"
+    },
+    {
+      "name": "FoxPlayerCollides",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fox_player_collides",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FoxportPlayer",
+      "type": "procedure",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxport_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Berryin",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berryin"
+    },
+    {
+      "name": "Chicahead",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicahead"
+    },
+    {
+      "name": "FNAF",
+      "type": "tab",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fnaf"
+    },
+    {
+      "name": "EndoIron",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endo_iron"
+    },
+    {
+      "name": "ChicaArmor",
+      "type": "armor",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chica_armor",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ChicaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chica_armor_body_recipe"
+    },
+    {
+      "name": "ChicaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chica_armor_boots_recipe"
+    },
+    {
+      "name": "Chicairon",
+      "type": "item",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicairon"
+    },
+    {
+      "name": "Chicaingotresp",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicaingotresp"
+    },
+    {
+      "name": "FreddyIron",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freddy_iron"
+    },
+    {
+      "name": "Freddysingotresp",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freddysingotresp"
+    },
+    {
+      "name": "FreddyArmor",
+      "type": "armor",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freddy_armor",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "FreddyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freddy_armor_body_recipe"
+    },
+    {
+      "name": "FreddyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freddy_armor_boots_recipe"
+    },
+    {
+      "name": "FreddyHead",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freddy_head"
+    },
+    {
+      "name": "Foxyiron",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxyiron"
+    },
+    {
+      "name": "Foxy",
+      "type": "armor",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxy",
+      "metadata": {
+        "eh": false,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Foxychest",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxychest"
+    },
+    {
+      "name": "Foxylegg",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxylegg"
+    },
+    {
+      "name": "Foxyboot",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxyboot"
+    },
+    {
+      "name": "FoxyHead",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxy_head"
+    },
+    {
+      "name": "Bonnieirn",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonnieirn"
+    },
+    {
+      "name": "Bonnieingot",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonnieingot"
+    },
+    {
+      "name": "BonnieArmor",
+      "type": "armor",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonnie_armor",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BonnieArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonnie_armor_body_recipe"
+    },
+    {
+      "name": "BonnieArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonnie_armor_boots_recipe"
+    },
+    {
+      "name": "Bonniehead",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonniehead"
+    },
+    {
+      "name": "Foxyshook",
+      "type": "tool",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxyshook"
+    },
+    {
+      "name": "Pizza",
+      "type": "food",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pizza"
+    },
+    {
+      "name": "FnafBlocks",
+      "type": "tab",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fnaf_blocks"
+    },
+    {
+      "name": "Chair",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chair"
+    },
+    {
+      "name": "Wall1",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_1"
+    },
+    {
+      "name": "Wall2",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_2"
+    },
+    {
+      "name": "Floor1",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floor_1"
+    },
+    {
+      "name": "Floor2",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floor_2"
+    },
+    {
+      "name": "Floor3",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floor_3"
+    },
+    {
+      "name": "Floor4",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floor_4"
+    },
+    {
+      "name": "Vent",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vent"
+    },
+    {
+      "name": "Table",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table"
+    },
+    {
+      "name": "PizzaFoodEaten",
+      "type": "procedure",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pizza_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fat",
+      "type": "achievement",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fat"
+    },
+    {
+      "name": "FoxyHeadEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foxy_head_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BonnieheadBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonniehead_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FreddyHeadBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freddy_head_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChicaheadBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicahead_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Endoironte",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endoironte"
+    },
+    {
+      "name": "Head1",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "head_1"
+    },
+    {
+      "name": "Head2",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "head_2"
+    },
+    {
+      "name": "Head3",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "head_3"
+    },
+    {
+      "name": "Head4",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "head_4"
+    },
+    {
+      "name": "Supercoal",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "supercoal"
+    },
+    {
+      "name": "CompressedCoal",
+      "type": "fuel",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compressed_coal"
+    },
+    {
+      "name": "Coal1",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_1"
+    },
+    {
+      "name": "Tomato",
+      "type": "food",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato"
+    },
+    {
+      "name": "Cuttingborad",
+      "type": "gui",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 2
+      },
+      "registry_name": "cuttingborad"
+    },
+    {
+      "name": "ChoppingBHoard",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chopping_b_hoard"
+    },
+    {
+      "name": "Tomatoslice",
+      "type": "food",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomatoslice"
+    },
+    {
+      "name": "Tomoa",
+      "type": "procedure",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomoa",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gjh",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gjh"
+    },
+    {
+      "name": "Bread",
+      "type": "food",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread"
+    },
+    {
+      "name": "Toad",
+      "type": "food",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toad"
+    },
+    {
+      "name": "BreadItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Beadd",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beadd"
+    },
+    {
+      "name": "Ysg",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ysg"
+    },
+    {
+      "name": "Tasty",
+      "type": "achievement",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tasty"
+    },
+    {
+      "name": "MoreBlocksHelpExecute",
+      "type": "procedure",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_blocks_help_execute",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MoreBlocksHelp",
+      "type": "command",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_blocks_help"
+    },
+    {
+      "name": "BreadFoxesAsset",
+      "type": "procedure",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread_foxes_asset",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SpawnFoxesAsset",
+      "type": "procedure",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spawn_foxes_asset",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spawn9TailedFox",
+      "type": "procedure",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spawn_9_tailed_fox",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ResetLogicAsset",
+      "type": "procedure",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reset_logic_asset",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FoxNaturalSpawning",
+      "type": "procedure",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fox_natural_spawning",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DayLogicasset",
+      "type": "procedure",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "day_logicasset",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NightLogicAsset",
+      "type": "procedure",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "night_logic_asset",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Any_Fox9Tails_Asset",
+      "type": "procedure",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_fox_9_tails_asset",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Load",
+      "type": "procedure",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "MbopCommandExecuted",
+      "type": "procedure",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mbop_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Meop",
+      "type": "keybind",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meop"
+    },
+    {
+      "name": "Silversmelt",
+      "type": "recipe",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silversmelt"
+    },
+    {
+      "name": "Smeltbronzeore",
+      "type": "recipe",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smeltbronzeore"
+    },
+    {
+      "name": "Smeltobsideianore",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smeltobsideianore"
+    },
+    {
+      "name": "BerryBushPlantRightClicked",
+      "type": "procedure",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_bush_plant_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BerryBushMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_bush_mobplayer_collides_with_plant",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BerryBushberrys",
+      "type": "plant",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_bushberrys"
+    },
+    {
+      "name": "BerryBushUpdateTick",
+      "type": "procedure",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_bush_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MblogCommandExecuted",
+      "type": "procedure",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mblog_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mblog",
+      "type": "command",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mblog"
+    },
+    {
+      "name": "BerryBushberrysPlantDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_bushberrys_plant_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ventwall",
+      "type": "block",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ventwall"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "bread_Foxes",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    },
+    {
+      "name": "Spawn_Foxes",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    },
+    {
+      "name": "Foxes_Normal_Spawn",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    },
+    {
+      "name": "tmp_Bread_foxes",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    },
+    {
+      "name": "bread_foxes",
+      "type": "string",
+      "scope": "map",
+      "value": ""
+    },
+    {
+      "name": "PRINT_LOG",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "sniper_shoot",
+      "files": [
+        "fire"
+      ],
+      "category": "master",
+      "subtitle": "sniper gun shoot"
+    },
+    {
+      "name": "sinper_reload",
+      "files": [
+        "reload"
+      ],
+      "category": "master",
+      "subtitle": "sinper reloading"
+    },
+    {
+      "name": "armour1",
+      "files": [
+        "heavy_armour1"
+      ],
+      "category": "master",
+      "subtitle": "armour "
+    },
+    {
+      "name": "armour2",
+      "files": [
+        "heavy_armour2"
+      ],
+      "category": "master",
+      "subtitle": "armour"
+    },
+    {
+      "name": "armour3",
+      "files": [
+        "heavy_armour3"
+      ],
+      "category": "master",
+      "subtitle": "armour"
+    },
+    {
+      "name": "armour4",
+      "files": [
+        "heavy_armour4"
+      ],
+      "category": "master",
+      "subtitle": "armour"
+    },
+    {
+      "name": "armour",
+      "files": [
+        "heavy_run1",
+        "heavy_run2",
+        "heavy_run3",
+        "heavy_run4",
+        "heavy_run5",
+        "heavy_run9",
+        "heavy_walk1",
+        "heavy_walk2",
+        "heavy_walk3",
+        "heavy_walk4",
+        "heavy_walk6"
+      ],
+      "category": "player",
+      "subtitle": "armour"
+    },
+    {
+      "name": "entity.fox.idle",
+      "files": [
+        "fox.idle1",
+        "fox.idle2",
+        "fox.idle3",
+        "fox.idle4",
+        "fox.idle5",
+        "fox.idle6",
+        "fox.idle7"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "entity.fox.hurt",
+      "files": [
+        "fox.hurt1",
+        "fox.hurt2",
+        "fox.hurt3",
+        "fox.hurt4"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "entity.fox.death",
+      "files": [
+        "fox.death1",
+        "fox.death2"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.give_up_on_you": "",
+      "item.silver_pickaxe.name": "Silver Pickaxe",
+      "item.creative_armorbody.name": "Creative Chestplate",
+      "item.foxyhelmet.name": "Foxy Helmet",
+      "item.blind_fold_armorbody.name": "BlindFold Chestplate",
+      "itemGroup.tabmore_ores": "More Ores",
+      "item.berry.name": "Sweet Berries",
+      "item.bonnieirn.name": "Bonnieirn",
+      "advancements.tasty.descr": "bread + furnace \u003d toast",
+      "item.fire_armorhelmet.name": "Fire Helmet",
+      "tile.transparentbrownconcrete.name": "Transparent brown concrete",
+      "subtitles.power": "",
+      "tile.foxy_head.name": "Foxy Head",
+      "item.silver_shovel.name": "Silver Shovel",
+      "advancements.shinyadv.title": "Shiny",
+      "tile.transparentgrayconcrete.name": "Transparent gray concrete",
+      "item.fire_pickaxe.name": "Fire Pickaxe",
+      "item.hardened_obsidian_armorboots.name": "Hardened Obsidian Boots",
+      "tile.transparentlimeconcrete.name": "Transparent lime concrete",
+      "item.bronze_hoe.name": "Bronze Hoe",
+      "advancements.firemeberswordsadv.descr": "Use the fire ember sword ",
+      "item.hardened_obsidian_armorbody.name": "Hardened Obsidian Chestplate",
+      "item.bronze_armorhelmet.name": "Bronze Helmet",
+      "subtitles.razor": "",
+      "subtitles.fox.hurt": "",
+      "tile.chair.name": "Chair",
+      "item.silver_hoe.name": "Silver Hoe",
+      "item.tomato.name": "Tomato",
+      "item.fire_armorboots.name": "Fire Boots",
+      "item.bonnie_armorlegs.name": "Bonnie Leggings",
+      "tile.transparent_white_concrete.name": "Transparent White Concrete",
+      "tile.chicahead.name": "Chica Head",
+      "tile.wall_2.name": "Wall 2",
+      "tile.transparentlight_blueconcrete.name": "Transparent lightBlue concrete",
+      "item.bronze_armorbody.name": "Bronze Chestplate",
+      "item.dirt_shovel.name": "Dirt Shovel",
+      "subtitles.armour4": "armour",
+      "subtitles.armour3": "armour",
+      "item.bronze_sword.name": "Bronze Sword",
+      "tile.transparentspruceplanks.name": "Transparent spruce planks",
+      "tile.transparentorangeconcrete.name": "Transparent orange concrete",
+      "item.foxyiron.name": "Foxyiron",
+      "subtitles.armour": "armour",
+      "tile.dragon_ore.name": "Dragon Relic",
+      "item.dragon_armorbody.name": "Dragon Chestplate",
+      "tile.chopping_b_hoard.name": "Chopping Board",
+      "subtitles.armour2": "armour",
+      "subtitles.armour1": "armour ",
+      "tile.silverore.name": "Silver Ore",
+      "item.bronze_shovel.name": "Bronze Shovel",
+      "item.freddy_armorboots.name": "Freddy Boots",
+      "item.fire_axe.name": "Fire Axe",
+      "subtitles.sinper_reload": "sinper reloading",
+      "tile.floor_4.name": "Floor 4",
+      "item.silver_axe.name": "Silver Axe",
+      "item.dirt_pickaxe.name": "Dirt Pickaxe",
+      "item.bread.name": "Bread",
+      "advancements.fat.title": "Faty",
+      "item.silver_armorbody.name": "Silver Chestplate",
+      "item.magma_armorlegs.name": "Magma Leggings",
+      "item.fire_armorbody.name": "Fire Chestplate",
+      "tile.floor_3.name": "Floor 3",
+      "subtitles.lwtmego": "",
+      "tile.transparentcyanconcrete.name": "Transparent cyan concrete",
+      "itemGroup.tabmore_blocks": "More Blocks",
+      "item.freddy_armorbody.name": "Freddy Chestplate",
+      "item.foxybody.name": "Foxy Body",
+      "item.supercoal.name": "compressed Coal",
+      "item.silver_armorboots.name": "Silver Boots",
+      "item.silver_armorlegs.name": "Silver Leggings",
+      "item.fire_shovel.name": "Fire Shovel",
+      "item.fire_armorlegs.name": "Fire Leggings",
+      "item.toad.name": "Toast",
+      "item.fire_hoe.name": "Fire Hoe",
+      "advancements.berrybush_adv.descr": "Find Sweet Berries",
+      "tile.berry_bushberrys.name": "Berry Bush",
+      "item.magma_armorboots.name": "Magma Boots",
+      "item.bronze_axe.name": "Bronze Axe",
+      "item.foxylegs.name": "Foxy Leggings",
+      "tile.transparent_yellow_concrete.name": "Transparent Yellow Concrete",
+      "item.chica_armorhelmet.name": "Chica Helmet",
+      "item.freddy_armorhelmet.name": "Freddy Helmet",
+      "subtitles.fox.death": "",
+      "subtitles.pigstep": "",
+      "item.silver_armorhelmet.name": "Silver Helmet",
+      "item.bronze_armorlegs.name": "Bronze Leggings",
+      "item.creative_pickaxe.name": "Creative Pickaxe",
+      "key.mcreator.meop": "Dev_Test",
+      "tile.wall_1.name": "Wall 1",
+      "item.emerald_armorboots.name": "Emerald Boots",
+      "item.emerald_armorhelmet.name": "Emerald Helmet",
+      "tile.transparentacaciaplanks.name": "Transparent acacia planks",
+      "tile.freddy_head.name": "Freddy Head",
+      "item.creative_armorlegs.name": "Creative Leggings",
+      "tile.transparent_podzol.name": "Transparent Podzol",
+      "item.foxyshook.name": "Foxys Hook",
+      "item.dirt_axe.name": "Dirt Axe",
+      "itemGroup.tabcreativeset": "Creative set",
+      "item.foxyboots.name": "Foxy Boots",
+      "item.bronzeingot.name": "Bronze ingot",
+      "tile.transparentoakplanks.name": "Transparent oak planks",
+      "tile.transparentjungleplanks.name": "Transparent jungle planks",
+      "item.dragon_armorboots.name": "Dragon Boots",
+      "item.fire_sword.name": "Fire Sword",
+      "tile.transparent_pink_concrete.name": "Transparent Pink Concrete",
+      "advancements.wow_dirst.title": "Wow Dirt",
+      "tile.eyespy.name": "Eyespy_icon",
+      "subtitles.entity.fox.death": "",
+      "tile.transparent_stone_brickmossy.name": "Transparent Stone Brick mossy",
+      "item.obsidian_sword.name": "Obsidian Sword",
+      "item.tey_armorboots.name": "Tey Boots",
+      "item.chicairon.name": "Chica endo ingot",
+      "subtitles.entity.fox.hurt": "",
+      "item.blind_fold_armorhelmet.name": "BlindFold creative",
+      "item.obsidian_shovel.name": "Obsidian Shovel",
+      "tile.transparentmagentaconcrete.name": "Transparent magenta concrete",
+      "tile.transparent_silver_concrete.name": "Transparent Gray Concrete",
+      "item.dragon_scales.name": "Dragon Scales",
+      "advancements.firemeberswordsadv.title": "Fire!",
+      "advancements.berrybush_adv.title": "sweet berries",
+      "itemGroup.tabfnaf_blocks": "FNAF Blocks",
+      "item.tomatoslice.name": "Tomato slice",
+      "item.obsidian_hoe.name": "Obsidian Hoe",
+      "item.bronze_armorboots.name": "Bronze Boots",
+      "item.bonnie_armorbody.name": "Bonnie Chestplate",
+      "tile.transparent_stone_brick_carved.name": "Transparent Stone Brick Carved",
+      "tile.transparentdarkoakplanks.name": "Transparent darkoak planks",
+      "advancements.shinyadv.descr": "wear a peace of armor",
+      "item.creative_sword.name": "Creative Sword",
+      "item.bonnie_armorboots.name": "Bonnie Boots",
+      "subtitles.entity.fox.idle": "",
+      "advancements.tasty.title": "Tasty",
+      "item.endo_iron.name": "Endo Iron",
+      "tile.floor_2.name": "Floor 2",
+      "advancements.fat.descr": "eat pizza",
+      "item.obsidian_axe.name": "Obsidian Axe",
+      "item.freddy_armorlegs.name": "Freddy Leggings",
+      "item.blind_fold_armorlegs.name": "BlindFold Leggings",
+      "item.tey_armorhelmet.name": "BlindFold",
+      "subtitles.pigsteped": "",
+      "tile.transparentstone.name": "transparent stone",
+      "tile.vent.name": "Vent",
+      "tile.transparent_red_concrete.name": "Transparent Red Concrete",
+      "item.tey_armorbody.name": "Tey Chestplate",
+      "subtitles.fox_idle": "",
+      "item.dragon_armorhelmet.name": "Dragon Helmet",
+      "item.emerald_armorbody.name": "Emerald Chestplate",
+      "subtitles.fox.idle": "",
+      "tile.transparentblueconcrete.name": "Transparent blue concrete",
+      "item.magma_armorbody.name": "Magma Chestplate",
+      "itemGroup.tabfnaf": "FNAF",
+      "item.silver_sword.name": "Silver Sword",
+      "item.tey_armorlegs.name": "Tey Leggings",
+      "item.emerald_armorlegs.name": "Emerald Leggings",
+      "item.pizza.name": "Pizza",
+      "tile.transparent_stone_brick.name": "Transparent Stone Brick",
+      "item.chica_armorlegs.name": "Chica Leggings",
+      "item.magma_armorhelmet.name": "Magma Helmet",
+      "item.bronze_pickaxe.name": "Bronze Pickaxe",
+      "tile.table.name": "Table",
+      "advancements.wow_dirst.descr": "make dirt armour",
+      "tile.bronze_ore.name": "Bronze Ore",
+      "tile.transparentbirchplanks.name": "Transparent birch planks",
+      "tile.berry_bush.name": "Sweet Berries Bush",
+      "item.chica_armorbody.name": "Chica Chestplate",
+      "item.dragon_armorlegs.name": "Dragon Leggings",
+      "item.creative_armorhelmet.name": "Creative Helmet",
+      "item.creative_axe.name": "Creative Axe",
+      "item.blind_fold_armorboots.name": "BlindFold Boots",
+      "item.obsidian_ingot.name": "Obsidian ingot",
+      "tile.floor_1.name": "Floor 1",
+      "tile.transparent_dirt.name": "Transparent Dirt",
+      "subtitles.sound1-inbetwee": "",
+      "tile.transparentpurpleconcrete.name": "Transparent purple concrete",
+      "item.dirt_hoe.name": "Dirt Hoe",
+      "tile.obsidian_ore.name": "Obsidian Ore",
+      "item.obsidian_pickaxe.name": "Obsidian Pickaxe",
+      "tile.ventwall.name": "Vent wall",
+      "subtitles.sniper_shoot": "sniper gun shoot",
+      "item.creative_shovel.name": "Creative Shovel",
+      "item.creative_hoe.name": "Creative Hoe",
+      "item.dirt_sword.name": "Dirt Sword",
+      "tile.bonniehead.name": "Bonnie Head",
+      "tile.transparentgreenconcrete.name": "Transparent green concrete",
+      "item.hardened_obsidian_armorhelmet.name": "Hardened Obsidian Helmet",
+      "item.silveringot.name": "Silver ingot",
+      "item.freddy_iron.name": "Freddy endo Ingot",
+      "item.hardened_obsidian_armorlegs.name": "Hardened Obsidian Leggings",
+      "tile.transparentblackconcrete.name": "Transparent black concrete",
+      "tile.transparent_stone_brickcracked.name": "Transparent Stone Brick Cracked",
+      "item.bonnie_armorhelmet.name": "Bonnie Helmet",
+      "item.fire_ember_sword.name": "Fire Ember Sword",
+      "item.creative_armorboots.name": "Creative Boots",
+      "item.chica_armorboots.name": "Chica Boots"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "moreblocks",
+    "modName": "More Blocks",
+    "version": "2.6.0",
+    "description": "More blocks to add to the surivival world",
+    "author": "SMLkaiellis08",
+    "websiteURL": "https://magma.serble.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "sml.kaiellis_logo",
+    "requiredMods": [
+      "sml_api"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Mod Credits to SMLkaiellis08",
+    "modElementsPackage": "net.moreblocks.sml",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

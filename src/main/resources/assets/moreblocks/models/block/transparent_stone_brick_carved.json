@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreblocks:blocks/stonebrick_carved",
+    "up": "moreblocks:blocks/stonebrick_carved",
+    "north": "moreblocks:blocks/stonebrick_carved",
+    "east": "moreblocks:blocks/stonebrick_carved",
+    "south": "moreblocks:blocks/stonebrick_carved",
+    "west": "moreblocks:blocks/stonebrick_carved",
+    "particle": "moreblocks:blocks/stonebrick_carved"
+  }
+}
